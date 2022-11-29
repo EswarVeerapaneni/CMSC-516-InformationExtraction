@@ -1,6 +1,6 @@
-# CMSC-516-SetimentAnalysis
+# CMSC-516-Information Extraction
 
-Text mining frequently employs the technique of sentiment analysis. By analyzing the sentiment of the text (in this case, a tweet), using sophisticated text mining techniques, it is possible to determine if it is positive, negative, or neutral.
+Text mining frequently employs the technique of InformationExtraction. By analyzing the sentiment of the text (in this case, a tweet), using sophisticated text mining techniques, it is possible to determine if it is positive, negative, or neutral.
 
 # Installation Instructions <br/>
  1)Install Python on you Computer. <br/>
