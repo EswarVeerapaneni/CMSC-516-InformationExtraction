@@ -24,15 +24,12 @@ Text mining frequently employs the technique of InformationExtraction. By analyz
 6)We split the dataset into 70% train and 15% test and 15% validation. and use the "target" label for testing. <br/>
 7)We used TfidfVectorizer model for feature selection with a max feature limt. <br/>
 8)There were a total features of 6100. <br/>
-9)Then we used classifiers like naive bayes, Decision Tree, multiLayer Perceptron. <br/>
+9)Then we used a sequential classifier<br/>
 
 # Results <br/>
 1)Results using sequential vs 97
   
-# Discussion <br/>
-Comparing the results from the three classifiers produced me a results of 
-Sequential :- 97
-![image](https://user-images.githubusercontent.com/46966138/196500511-40e4dd97-8bfd-48e5-9dcb-c7ade3037703.png)
+
 
 
 # Future Work <br/>
